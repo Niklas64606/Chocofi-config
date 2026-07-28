@@ -1,4 +1,0 @@
-packages:
-  - name: miryoku-zmk
-    repo: manna-harbour/miryoku_zmk
-    rev: master
